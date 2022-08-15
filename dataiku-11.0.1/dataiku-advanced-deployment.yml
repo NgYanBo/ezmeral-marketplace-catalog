@@ -2,7 +2,7 @@
 apiVersion: "kubedirector.hpe.com/v1beta1"
 kind: "KubeDirectorCluster"
 metadata: 
-  name: "dataiku-instance"
+  name: "dataiku-instance-adv"
   namespace: "dataiku"
 spec: 
   app: "dataiku"
